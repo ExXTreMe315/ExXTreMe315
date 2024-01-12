@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [IronV](https://github.com/Iron-V) (its a [Alt:V](https://altv.mp/#/) GTA 5 Roleplay Server)
-- 📫 [Discord](https://discord.com/users/396472444388376577)
+- 📫 Contact: [Discord](https://discord.com/users/396472444388376577)
 - 📧 Business Mail: [exxtreme@richman-gaming.de](mailto:exxtreme@richman-gaming.de?subject=[GitHub]%20Source%20Han%20Sans)
 - ⚡ “Java is to JavaScript what car is to Carpet.” – Chris Heilmann
 
