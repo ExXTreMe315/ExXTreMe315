@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <h2>Thats me</h2>
+  <div style="width: 46%;">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ExXTreMe315&show_icons=true&theme=codeSTACKr" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExXTreMe315&theme=codeSTACKr&layout=compact" />
+  </div>
+</div>    
