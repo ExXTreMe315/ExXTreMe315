@@ -23,5 +23,7 @@ Here are some ideas to get you started:
   <div style="width: 46%;">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ExXTreMe315&show_icons=true&theme=codeSTACKr" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExXTreMe315&theme=codeSTACKr&layout=compact" />
+    <img width="50%" src="https://dcbadge.vercel.app/api/server/ironv?theme=gray" style="border-radius: 15px"/>
+    <img width="50%" src="https://komarev.com/ghpvc/?username=ExXTreMe315&color=grey"/>
   </div>
-</div>    
+</div>
