@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <div style="width: 46%;">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ExXTreMe315&show_icons=true&theme=codeSTACKr" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExXTreMe315&theme=codeSTACKr&layout=compact" />
-    <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=ExXTreMe315&theme=github-compact"/>
-    <img width="30%" src="https://dcbadge.vercel.app/api/server/ironv?theme=gray" style="border-radius: 15px"/>
+    <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=ExXTreMe315&bg_color=0B131BFF&color=aa2a2a&line=aa2a2a&point=aa2a2a80&area=true&area_color=aa2a2a80"/>
+    <img width="30%" src="https://dcbadge.vercel.app/api/server/ironv?theme=gray"/>
     <img width="15%" src="https://komarev.com/ghpvc/?username=ExXTreMe315&color=grey"/>
   </div>
 </div>
