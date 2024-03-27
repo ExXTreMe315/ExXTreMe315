@@ -39,12 +39,11 @@ Here are some ideas to get you started:
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <h2><img style="width: 2%;" src="https://github.com/ExXTreMe315/ExXTreMe315/assets/112979320/0730f38d-bbc6-455e-a220-ac62bbec9b4c" /> Stats</h2>
+  <h2><img style="width: 2%;" src="https://github.com/ExXTreMe315/ExXTreMe315/assets/112979320/0730f38d-bbc6-455e-a220-ac62bbec9b4c" /> Stats </h2>
   <div style="width: 46%;">
+    <img width="17%" src="https://komarev.com/ghpvc/?username=ExXTreMe315&color=grey"/><img width="30%" src="https://dcbadge.vercel.app/api/server/ironv?theme=gray"/>
     <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=ExXTreMe315&bg_color=0B131BFF&color=aa2a2a&line=aa2a2a&point=aa2a2a80&area=true&area_color=aa2a2a80"/>
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ExXTreMe315&show_icons=true&theme=codeSTACKr" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExXTreMe315&theme=codeSTACKr&layout=compact" />
-    <img width="30%" src="https://dcbadge.vercel.app/api/server/ironv?theme=gray"/>
-    <img width="15%" src="https://komarev.com/ghpvc/?username=ExXTreMe315&color=grey"/>
   </div>
 </div>
