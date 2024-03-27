@@ -10,7 +10,7 @@
 <img style="width: 5%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img style="width: 5%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img style="width: 5%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-<img style="width: 5%;" src="https://altv.mp/img/branding/logo_green.svg" target="_blank" href="https://altv.mp/"/>
+<img style="width: 5%;" src="https://altv.mp/img/branding/logo_green.svg"/>
 <img style="width: 5%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img style="width: 5%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg" />
 <img style="width: 5%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
