@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Plugins for [Rebar](https://rebarv.com/) (its a a plugin-based framework for GTA:V based on [alt:V](https://altv.mp/#/))
+<!-- - 🔭 I’m currently working on Plugins for [Rebar](https://rebarv.com/) (its a a plugin-based framework for GTA:V based on [alt:V](https://altv.mp/#/)) -->
 - 📫 Contact: [Discord](https://discord.com/users/396472444388376577)
 - 📧 Business Mail: [exxtreme@richman-gaming.de](mailto:exxtreme@richman-gaming.de?subject=[GitHub]%20Source%20Han%20Sans)
 - ⚡ “Java is to JavaScript what car is to Carpet.” – Chris Heilmann
